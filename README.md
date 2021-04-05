@@ -1,1 +1,1 @@
-FINAL version of BLACKJACK V1 in Python 
+FINAL version of BLACKJACK in Python 
