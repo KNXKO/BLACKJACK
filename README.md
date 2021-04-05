@@ -1,4 +1,1 @@
-# BlackJACK V1
-Blackjack in python 
-You vs PC
-CZ / SK version
+FINAL version of BLACKJACK V1 in Python 
